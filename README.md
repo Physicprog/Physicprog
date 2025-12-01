@@ -9,7 +9,7 @@
 # ✨ Who am I?
 
 
-<img align="right" alt="Coding" width="335" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHU3bjQxN3Zkcm9pano4ZHY1M2k2N2w5bnQ3d20xdzRndDJkMHlnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif">
+<img align="right" alt="Coding" width="340" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHU3bjQxN3Zkcm9pano4ZHY1M2k2N2w5bnQ3d20xdzRndDJkMHlnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif">
 
 ### 👨‍💻 About Me
 
