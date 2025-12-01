@@ -1,6 +1,9 @@
-![MasterHead](images/masterhead.png)
+![MasterHead](masterhead.png)
 
 # ✨ Who am I?
+
+
+<img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHU3bjQxN3Zkcm9pano4ZHY1M2k2N2w5bnQ3d20xdzRndDJkMHlnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif">
 
 I'm **Khylian Griffon**, a passionate **Web Developer** and **Video Editor** specializing in both web development and creating visually engaging content. Currently studying at SupInfo, I aim to strengthen my skills while working on exciting projects. I'm actively seeking an internship to further hone my expertise in web development and contribute to innovative digital projects.
 
