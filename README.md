@@ -2,15 +2,14 @@
 
 <div align="center">
   
-# ✨ Who am I?
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Developer+%F0%9F%92%BB;Video+Editor+%26+Motion+Designer+%F0%9F%8E%A5;Creative+Digital+Innovator+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 
 </div>
 
----
+# ✨ Who am I?
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHU3bjQxN3Zkcm9pano4ZHY1M2k2N2w5bnQ3d20xdzRndDJkMHlnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif">
+
+<img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHU3bjQxN3Zkcm9pano4ZHY1M2k2N2w5bnQ3d20xdzRndDJkMHlnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif">
 
 ### 👨‍💻 About Me
 
@@ -21,8 +20,7 @@ I'm **Khylian Griffon**, a passionate **Web Developer** and **Video Editor** spe
 - 🎥 **Video Editing & Motion Designer**
 - 💡 Enthusiast about **modern web technologies** and **creative media**
 - 🛠️ Always experimenting with new tools, and digital solutions
-- 🎓 Currently studying at **SupInfo**, specializing in Web Development 
-- 💬 Ask me about **JavaScript, Video Production, 3D Design**
+- 🎓 Currently studying at **SupInfo**
 
 ---
 
