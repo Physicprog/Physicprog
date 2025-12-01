@@ -48,7 +48,6 @@ I'm **Khylian Griffon**, a passionate **Web Developer** and **Video Editor** spe
 
 ## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=Physic&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Physic&theme=tokyonight&hide_border=true)
 
@@ -95,7 +94,7 @@ I'm **Khylian Griffon**, a passionate **Web Developer** and **Video Editor** spe
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khylian-griffon/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khylian-griffon/)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KhylianGriffon)
 
 ### 📫 Open to Opportunities!
