@@ -1,3 +1,5 @@
+![MasterHead](images/masterhead.png)
+
 # ✨ Who am I?
 
 I'm **Khylian Griffon**, a passionate **Web Developer** and **Video Editor** specializing in both web development and creating visually engaging content. Currently studying at SupInfo, I aim to strengthen my skills while working on exciting projects. I'm actively seeking an internship to further hone my expertise in web development and contribute to innovative digital projects.
@@ -24,9 +26,7 @@ I'm **Khylian Griffon**, a passionate **Web Developer** and **Video Editor** spe
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Physic&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Physic&theme=dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Physic&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
@@ -37,14 +37,8 @@ I'm **Khylian Griffon**, a passionate **Web Developer** and **Video Editor** spe
 > *"The question of whether a computer can think is like the question of whether a submarine can swim."*  
 — **Edsger Dijkstra**
 
----
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Physic&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
 ## 🎮 GitHub Maze
 
-![GitHub Maze](https://raw.githubusercontent.com/Physic/Physic/master/github-contribution-graph.svg)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
