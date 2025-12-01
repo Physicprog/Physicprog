@@ -1,16 +1,50 @@
-## Hi there 👋
+# ✨ Who am I?
 
-<!--
-**Physicprog/Physicprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Khylian Griffon**, a passionate **Web Developer** and **Video Editor** specializing in both web development and creating visually engaging content. Currently studying at SupInfo, I aim to strengthen my skills while working on exciting projects. I'm actively seeking an internship to further hone my expertise in web development and contribute to innovative digital projects.
 
-Here are some ideas to get you started:
+🚀 **What I Do**
+- 🔥 **Web Development** (Frontend & Backend)
+- 🎥 **Video Editing & Motion Designer**
+- 💡 Enthusiast about **modern web technologies** and **creative media**
+- 🛠️ Always experimenting with new tools, and digital solutions
+- 🎓 Currently studying at **SupInfo**, specializing in Web Development and Digital Content Creation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Physic&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Physic&theme=dark&hide_border=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Physic&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Physic&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Favorite Dev Quote
+
+> *"The question of whether a computer can think is like the question of whether a submarine can swim."*  
+— **Edsger Dijkstra**
+
+---
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=Physic&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+## 🎮 GitHub Maze
+
+![GitHub Maze](https://raw.githubusercontent.com/Physic/Physic/master/github-contribution-graph.svg)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
