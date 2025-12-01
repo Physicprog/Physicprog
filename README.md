@@ -4,7 +4,7 @@
   
 # ✨ Who am I?
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Web+Developer+%F0%9F%92%BB;Video+Editor+%26+Motion+Designer+%F0%9F%8E%A5;Creative+Digital+Innovator+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Developer+%F0%9F%92%BB;Video+Editor+%26+Motion+Designer+%F0%9F%8E%A5;Creative+Digital+Innovator+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 
 </div>
 
@@ -21,8 +21,7 @@ I'm **Khylian Griffon**, a passionate **Web Developer** and **Video Editor** spe
 - 🎥 **Video Editing & Motion Designer**
 - 💡 Enthusiast about **modern web technologies** and **creative media**
 - 🛠️ Always experimenting with new tools, and digital solutions
-- 🎓 Currently studying at **SupInfo**, specializing in Web Development and Digital Content Creation
-- 🌱 Currently exploring **AI integration in web apps**
+- 🎓 Currently studying at **SupInfo**, specializing in Web Development 
 - 💬 Ask me about **JavaScript, Video Production, 3D Design**
 
 ---
@@ -96,7 +95,7 @@ I'm **Khylian Griffon**, a passionate **Web Developer** and **Video Editor** spe
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/khylian-griffon/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khylian-griffon/))
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KhylianGriffon)
 
 ### 📫 Open to Opportunities!
@@ -120,6 +119,3 @@ I'm **Khylian Griffon**, a passionate **Web Developer** and **Video Editor** spe
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
 
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Enhanced with creative elements by Khylian Griffon -->
