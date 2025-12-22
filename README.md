@@ -1,15 +1,6 @@
 ![MasterHead](masterhead.png)
 
-<div align="center">
-  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Developer+%F0%9F%92%BB;Video+Editor+%26+Motion+Designer+%F0%9F%8E%A5;Creative+Digital+Innovator+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
-
 </div>
-
-# ✨ Who am I?
-
-
-<img align="right" alt="Coding" width="340" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHU3bjQxN3Zkcm9pano4ZHY1M2k2N2w5bnQ3d20xdzRndDJkMHlnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif">
 
 ### 👨‍💻 About Me
 
@@ -53,40 +44,6 @@ I'm **Khylian Griffon**, a passionate **Web Developer** and **Video Editor** spe
 
 ---
 
-<div align="center">
-
-## 🏆 GitHub Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Physic&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 Mission Statement
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Transforming+Ideas+into+Digital+Reality;One+Pixel+at+a+Time+%F0%9F%9A%80" alt="Mission" />
-
-</div>
-
----
-
-<div align="center">
-
-## 💭 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### ✍️ Personal Favorite
-
-> *"The question of whether a computer can think is like the question of whether a submarine can swim."*  
-> — **Edsger Dijkstra**
-
-</div>
-
----
 
 <div align="center">
 
@@ -103,16 +60,6 @@ I'm **Khylian Griffon**, a passionate **Web Developer** and **Video Editor** spe
 
 ---
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Physic&color=blueviolet&style=for-the-badge)
-
 ### 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/Physicprog/Physicprog/output/snake.svg" width="100%" alt="Snake animation" />
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
-
-</div>
