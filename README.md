@@ -1,20 +1,6 @@
 ![MasterHead](masterhead.png)
 
 </div>
-
-### 👨‍💻 About Me
-
-I'm **Khylian Griffon**, a passionate **Web Developer** and **Video Editor** specializing in both web development and creating visually engaging content. Currently studying at SupInfo, I aim to strengthen my skills while working on exciting projects. I'm actively seeking an internship to further hone my expertise in web development and contribute to innovative digital projects.
-
-🚀 **What I Do**
-- 🔥 **Web Development** (Frontend & Backend)
-- 🎥 **Video Editing & Motion Designer**
-- 💡 Enthusiast about **modern web technologies** and **creative media**
-- 🛠️ Always experimenting with new tools, and digital solutions
-- 🎓 Currently studying at **SupInfo**
-
----
-
 <div align="center">
 
 ## 💻 Tech Stack & Tools
@@ -30,36 +16,3 @@ I'm **Khylian Griffon**, a passionate **Web Developer** and **Video Editor** spe
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 </div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Statistics
-
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Physic&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-
-<div align="center">
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khylian-griffon/)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KhylianGriffon)
-
-### 📫 Open to Opportunities!
-💼 Looking for internships in **Web Development** & **Digital Content Creation**  
-🤝 Open to collaborate on **Creative Web Projects** & **Video Production**
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/Physicprog/Physicprog/output/snake.svg" width="100%" alt="Snake animation" />
